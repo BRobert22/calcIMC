@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">calcIMC</string>
+    <string name="Mulher">Mulher</string>
+    <string name="Idade">Idade</string>
+    <string name="Anos">Anos</string>
+    <string name="Peso">Peso</string>
+    <string name="unitPeso">Kg</string>
+    <string name="Altura">Altura</string>
+    <string name="unitAltura">cm</string>
+    <string name="Atividade">Atividade Fisica</string>
+    <string name="Sedentario">Sedentario</string>
+    <string name="Moderado">Moderado</string>
+    <string name="Intenso">Intenso</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Result_IMC">Seu IMC é</string>
+    <string name="Result_Abaixo">Abaixo do Peso</string>
+    <string name="Result_Saudavel">Saudavel</string>
+    <string name="Result_Sobre">Sobrepeso</string>
+    <string name="Result_Obesidade">Obesidade</string>
+</resources>
